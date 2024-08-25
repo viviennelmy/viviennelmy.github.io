@@ -1,7 +1,7 @@
-layout: post
-author: Vivienne
-title: "Applied Data Science Project Documentation"
-categories: ITD214
+---
+Author: Vivienne
+Title: "Applied Data Science Project Documentation"
+Categories: ITD214
 ---
 
 ## Project Background
@@ -67,7 +67,10 @@ Topics identified by the NMF Model:
 ## Recommendation and Analysis
 
 With business objective 4 which was based on only negative reviews (customer ratings of =<4), these topics gave a broad overview of what the BA airlines should improve on. 
-There are a few aspects, for example, in terms of service standards, the crew needs to improve their services provided onboard the plane as well as for communication with passengers, and some were cited to be 'arrogant'. Next, food and meals were also highlighted in reviews of unsatisfactory customer experience. Furthermore, the refund policy also appears to be a pain point for cancelled flights. Finally, there appears to be many complaints with regards to the business class and London flights. Hence, British Airways should look into and address these areas in their airline business to improve customer satisfaction and demand. 
+There are a few aspects, for example, in terms of service standards, the crew needs to improve their services provided onboard the plane as well as for communication with passengers, and some were cited to be 'arrogant'. 
+Next, food and meals were also highlighted in reviews of unsatisfactory customer experience. 
+Furthermore, the refund policy also appears to be a pain point for cancelled flights. 
+Finally, there appears to be many complaints with regards to the business class and London flights. Hence, British Airways should look into and address these areas in their airline business to improve customer satisfaction and demand. 
 
 ## AI Ethics
 
