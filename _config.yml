@@ -3,12 +3,6 @@ author:
   name: Vivienne Lim
   email: viviennelmy@gmail.com
 
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-
-This site contains the contents for my Applied Data Science Project at NYP.
-
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
