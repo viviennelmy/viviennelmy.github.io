@@ -72,6 +72,11 @@ Next, food and meals were also highlighted in reviews of unsatisfactory customer
 Furthermore, the refund policy also appears to be a pain point for cancelled flights. 
 Finally, there appears to be many complaints with regards to the business class and London flights. Hence, British Airways should look into and address these areas in their airline business to improve customer satisfaction and demand. 
 
+<img width="452" alt="Topic 1" src="https://github.com/user-attachments/assets/d1dd1bc3-bd94-469c-9f35-272a7b5b49c7">
+<img width="452" alt="Topic 2" src="https://github.com/user-attachments/assets/d0b708e1-8cb8-4187-8edd-9f2a7fd68a09">
+
+pyLDAvis was used to visualise topics and relationships to inspect how the topics are distributed and related. This helps to understand model’s performance and tuning . For topic 1, ‘service’, ’London’ and ‘hours’ were the most common terms for negative reviews, whereas for topic 2, ‘seats’, and ‘business’ class were the most common terms for complaints. Even though these 2 topics appear close on the Intertopic map, they still appear reasonably distributed and defined. 
+
 ## AI Ethics
 
 The BA ariline review dataset contained just one column for customer identifcation.: It was the 'Name' column. Apart from it, there were no other customer identifiers, such as customer's ID or flight ticket no., age, address, etc. 
@@ -85,3 +90,5 @@ The Models the group used for text analytics and topic modelling were models tha
 
 ## Source Codes and Datasets
 Upload your model files and dataset into a GitHub repo and add the link here. 
+https://github.com/viviennelmy/viviennelmy.github.io/blob/master/Topic%20Modelling%20with%20LDA%20and%20NMF.ipynb
+https://github.com/viviennelmy/viviennelmy.github.io/blob/master/filtered_negreviews.csv
